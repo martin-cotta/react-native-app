@@ -9,7 +9,7 @@ brew install node
 brew install watchman
 npm install -g react-native-cli
 
-react-native init SampleReactNativeApp --version 0.50.0
+react-native init SampleReactNativeApp --version 0.50.3
 
 cd SampleReactNativeApp
 react-native run-ios
