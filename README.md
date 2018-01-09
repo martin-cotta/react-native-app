@@ -19,6 +19,7 @@ react-native run-android
 
 ### Release Notes
 
+* [v0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [v0.50.0](https://github.com/facebook/react-native/releases/tag/v0.50.0)
 * [v0.49.0](https://github.com/facebook/react-native/releases/tag/v0.49.0)
 * [v0.48.4](https://github.com/facebook/react-native/releases/tag/v0.48.4)
