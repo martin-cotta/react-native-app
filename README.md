@@ -9,7 +9,7 @@ brew install node
 brew install watchman
 npm install -g react-native-cli
 
-react-native init ReactNativeApp --version 0.54.4
+react-native init ReactNativeApp --version 0.55.0
 
 cd ReactNativeApp
 react-native run-ios
@@ -19,6 +19,7 @@ react-native run-android
 
 ### Release Notes
 
+* [v0.55.0](https://github.com/facebook/react-native/releases/tag/v0.55.0)
 * [v0.54.0](https://github.com/facebook/react-native/releases/tag/v0.54.0)
 * [v0.53.0](https://github.com/facebook/react-native/releases/tag/v0.53.0)
 * [v0.52.0](https://github.com/facebook/react-native/releases/tag/v0.52.0)
